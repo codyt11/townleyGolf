@@ -1,0 +1,28 @@
+.nav{
+    background-image: url("../../images/greenwithball.jpg");
+    background-size:cover;
+    border: 5px solid white ;
+    height: 20rem;
+    width: 100%;
+}
+
+#basic-navbar-nav{
+    position: absolute;
+    right: 0;
+}
+.nav.navbar-nav.navbar-right li a {
+    color: blue;
+}
+
+.links{
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    top: -8rem;
+    
+}
+
+.link-title{
+    color: white;
+}
+
