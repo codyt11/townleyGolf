@@ -23,6 +23,12 @@ function Header() {
           </Nav>
         </Navbar.Collapse>
       </Container>
+      <Container className='about'>
+        <div>
+          <h1>Everythin for your<br/> golf life in one spot!</h1>
+          <h6>Track your favorite courses, Check the Weather<br/> Keep up with LeaderBoards<br/> follow the newest golf tech and more!</h6>
+        </div>
+      </Container>
     </Navbar>
   );
 }
