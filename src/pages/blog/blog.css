@@ -1,0 +1,34 @@
+.blog{
+    background-image: url("../../images/grass.jpg");
+    background-size:1000px 1000px;
+    height: 2000px;
+    text-align: center;
+    color: aliceblue;
+    text-shadow: 2px 2px 3px rgb(0, 0, 0);
+    padding-top: 0;
+}
+
+
+.blog-contain {
+    background-color: aliceblue;
+    height: 100%;
+    width: 80%;
+}
+
+.blog-post{
+    width: 80%;
+    margin: 5rem auto;
+    
+}
+
+.post{
+    margin: 5rem auto;
+    color: black;
+    text-shadow: 2px 2px 3px rgb(189, 0, 0);
+}
+.title{
+    padding-top: 2rem;
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 3px rgb(189, 0, 0);
+    font-family: "robotica";
+}
