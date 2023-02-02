@@ -5,7 +5,7 @@ const fetchLocation = () => {
     return axios
       .get("http://ipwho.is/")
       .then(res => {
-        console.log(res);
+        console.log(res,"hello");
         return res;
       })
       .catch(err => {
